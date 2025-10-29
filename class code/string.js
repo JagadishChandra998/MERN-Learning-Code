@@ -33,5 +33,9 @@ let b="#Jagadishchandradhal#";
 // let g=b.codePointAt(0);   // GIVE THE NONEGATIVE POINTER VALUE
 // console.log(g)
 
-let h=b.at(2);     //GIVE THE INDEX VALUE
-console.log(h)
+// let h=b.at(2);     //GIVE THE INDEX VALUE
+// console.log(h)
+
+let numb = 5;
+let text = numb.toString();
+// let padded = text.padStart(4,"0");
