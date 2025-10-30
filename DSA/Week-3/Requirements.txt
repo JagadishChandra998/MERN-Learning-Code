@@ -1,0 +1,8 @@
+STUDY MATERIALS FOR DATA STRUCTURES & ALGORITHMS IN JAVASCRIPT
+
+• Linked Lists (1 hrs) 
+• Recursion + Backtracking (1 hrs) 
+• Trees (BST, Trie, Heap) (1 hrs) 
+• Graphs (DFS, BFS, Dijkstra, MST) (1 hrs)  
+• Greedy + Dynamic Programming (1 hrs) 
+• Mock Tests + Debugging (1 hrs)
